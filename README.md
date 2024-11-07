@@ -29,6 +29,7 @@ This commands includes
 <BR>
 ## Output
 ## NETSTAT
+
 ![Screenshot (6)](https://github.com/user-attachments/assets/f9cf0ac6-6f78-4b16-890c-c0fc69c77766)
 ## IPCONFIG
 ![Screenshot (7)](https://github.com/user-attachments/assets/48f63dba-95c6-4476-a7f1-1c21e0a30fe4)
